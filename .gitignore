@@ -32,5 +32,5 @@ yarn-error.log*
 .vercel
 
 # sw stuff
-public/sw.js
-public/workox-*.js
+/public/sw.js
+/public/workox-*.js
