@@ -11,8 +11,3 @@ export default {
 } as ComponentMeta<typeof Main>;
 
 export const Basic: ComponentStory<typeof Main> = (args) => <Main {...args} />;
-
-// Basic.args = {
-//   title: 'React Avançado',
-//   description: 'Typescript, React, Next e Styled Components',
-// };
